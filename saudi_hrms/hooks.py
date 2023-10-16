@@ -214,3 +214,8 @@ app_license = "mit"
 # auth_hooks = [
 #	"saudi_hrms.auth.validate"
 # ]
+
+fixtures=[
+    {"dt":"Employee","filter":[["module","=","Saudi-HRMS"]]}
+    ]
+
