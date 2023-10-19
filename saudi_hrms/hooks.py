@@ -219,3 +219,6 @@ fixtures=[
     {"dt":"Employee","filter":[["module","=","Saudi-HRMS"]]}
     ]
 
+doctype_js = {
+	"Employee" : "public/js/employee.js"
+}
